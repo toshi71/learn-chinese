@@ -3,6 +3,41 @@ document.addEventListener('DOMContentLoaded', function() {
     const audio = document.getElementById('audio');
     const textContainer = document.getElementById('text-container');
     const fileInput = document.getElementById('file-input');
+    const presetButtons = document.getElementById('preset-buttons');
+
+    // 追加: プリセットファイルの配列
+    const presetFiles = ['001', '002', '003'];
+
+    // プリセットボタンを生成する関数
+    function createPresetButtons() {
+        presetFiles.forEach(file => {
+            const button = document.createElement('button');
+            button.textContent = file;
+            button.className = 'preset-btn';
+            button.onclick = () => loadPreset(file);
+            presetButtons.appendChild(button);
+        });
+    }
+
+    // プリセットファイルを読み込む関数
+    function loadPreset(fileName) {
+        const jsonFilePath = `./json/${fileName}.json`;
+        const audioFilePath = `./audio/${fileName}.mp3`;
+
+        fetch(jsonFilePath)
+            .then(response => {
+                if (!response.ok) throw new Error('ネットワークエラー');
+                return response.json();
+            })
+            .then(data => {
+                audio.src = audioFilePath;
+                loadContent(data, fileName);
+            })
+            .catch(error => console.error('ファイルの読み込みに失敗しました:', error));
+    }
+
+    // プリセットボタンを生成
+    createPresetButtons();
 
     fileInput.addEventListener('change', function(event) {
         const file = event.target.files[0];
