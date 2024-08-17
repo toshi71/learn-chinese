@@ -1,0 +1,652 @@
+{
+  "content": [
+    {
+      "type": "title",
+      "text": "第3話　地球人・陽奈の日常"
+    },
+    {
+      "type": "text",
+      "text": "阳奈:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "呼",
+      "start": 5.466549,
+      "end": 7.126513,
+      "annotation": "Hū"
+    },
+    {
+      "type": "text",
+      "text": "---- ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "呼",
+      "start": 7.126513,
+      "end": 9.093138,
+      "annotation": "Hū"
+    },
+    {
+      "type": "text",
+      "text": "-----\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "母亲:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "阳奈",
+      "start": 9.519795,
+      "end": 10.739826,
+      "annotation": "Yángnài"
+    },
+    {
+      "type": "text",
+      "text": "!  ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "阳奈",
+      "start": 10.739826,
+      "end": 11.726415,
+      "annotation": "Yángnài"
+    },
+    {
+      "type": "text",
+      "text": "!! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "快起床",
+      "start": 11.726415,
+      "end": 12.993054,
+      "annotation": "Kuài qǐchuáng"
+    },
+    {
+      "type": "text",
+      "text": "!!!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "阳奈:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "知道啦",
+      "start": 13.558349,
+      "end": 15.319671,
+      "annotation": "Zhīdao la"
+    },
+    {
+      "type": "text",
+      "text": "! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "几点了啊",
+      "start": 16.199652,
+      "end": 17.540479,
+      "annotation": "Jǐ diǎn le a"
+    },
+    {
+      "type": "text",
+      "text": "? ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "哎呀",
+      "start": 18.299607,
+      "end": 19.131272,
+      "annotation": "Āiyā"
+    },
+    {
+      "type": "text",
+      "text": "! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "老妈早",
+      "start": 22.032861,
+      "end": 22.930276,
+      "annotation": "Lǎomā zǎo"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "母亲:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "不早啦",
+      "start": 23.246168,
+      "end": 24.490531,
+      "annotation": "Bù zǎo la"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "阳奈:",
+      "start": null,
+      "end": 24.986131,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "捏饭团",
+      "start": 24.986131,
+      "end": 26.152772,
+      "annotation": "Niē fàntuán"
+    },
+    {
+      "type": "text",
+      "text": ", ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "捏饭团",
+      "start": 26.152772,
+      "end": 27.219416,
+      "annotation": "niē fàntuán"
+    },
+    {
+      "type": "text",
+      "text": "! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "妈",
+      "start": 27.712739,
+      "end": 28.199395,
+      "annotation": "Mā"
+    },
+    {
+      "type": "text",
+      "text": ", ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "米饭好了吗",
+      "start": 28.466056,
+      "end": 29.659364,
+      "annotation": "mǐfàn hǎo le ma"
+    },
+    {
+      "type": "text",
+      "text": "?\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "spacer",
+      "text": "阳奈:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "啊",
+      "start": 30.439347,
+      "end": 30.826005,
+      "annotation": "Ā"
+    },
+    {
+      "type": "text",
+      "text": "---- ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "好烫",
+      "start": 31.086,
+      "end": 31.685987,
+      "annotation": "hǎotàng"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "好烫",
+      "start": 31.685987,
+      "end": 32.112644,
+      "annotation": "hǎotàng"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "母亲:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "你这",
+      "start": 32.885961,
+      "end": 33.325952,
+      "annotation": "Nǐ zhè"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "丫头",
+      "start": 33.325952,
+      "end": 33.872607,
+      "annotation": "yātou"
+    },
+    {
+      "type": "text",
+      "text": ", ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "就",
+      "start": 34.205933,
+      "end": 34.379263,
+      "annotation": "jiù"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "这么",
+      "start": 34.379263,
+      "end": 34.636154,
+      "annotation": "zhème"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "喜欢",
+      "start": 34.636154,
+      "end": 34.95925,
+      "annotation": "xǐhuan"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "饭团",
+      "start": 34.95925,
+      "end": 35.505905,
+      "annotation": "fàntuán"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "阳奈:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "那还",
+      "start": 36.412552,
+      "end": 36.799211,
+      "annotation": "Nà hái"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "用说",
+      "start": 36.799211,
+      "end": 37.825855,
+      "annotation": "yòng shuō"
+    },
+    {
+      "type": "text",
+      "text": "! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "No",
+      "start": 37.825855,
+      "end": 38.159182,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "onigiri",
+      "start": 38.159182,
+      "end": 38.805834,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": ", ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "no",
+      "start": 38.805834,
+      "end": 39.259158,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "life",
+      "start": 39.259158,
+      "end": 39.512486,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "母亲:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "也难怪",
+      "start": 41.392446,
+      "end": 42.339092,
+      "annotation": "Yě nánguài"
+    },
+    {
+      "type": "text",
+      "text": ". ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "阳奈",
+      "start": 43.812394,
+      "end": 44.426546,
+      "annotation": "Yángnài"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "跟奶奶",
+      "start": 44.426546,
+      "end": 45.0657,
+      "annotation": "gēn nǎinai"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "最亲了",
+      "start": 45.0657,
+      "end": 45.955861,
+      "annotation": "zuì qīn le"
+    },
+    {
+      "type": "text",
+      "text": "......\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "阳奈:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "我走啦",
+      "start": 47.858974,
+      "end": 48.750622,
+      "annotation": "Wǒ zǒu la"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "spacer",
+      "text": "阳奈:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "真走运",
+      "start": 49.812265,
+      "end": 50.60522,
+      "annotation": "Zhēn zǒuyùn"
+    },
+    {
+      "type": "text",
+      "text": "!",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    }
+  ]
+}

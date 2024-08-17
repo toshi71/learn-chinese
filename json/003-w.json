@@ -1,0 +1,193 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "陽奈:",
+      "start": 0.138705,
+      "end": 1.405984,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "阳奈",
+      "start": 1.405984,
+      "end": 3.035826,
+      "annotation": "Yángnài"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "助詞:",
+      "start": 3.035826,
+      "end": 4.179385,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "啦",
+      "start": 4.179385,
+      "end": 5.819768,
+      "annotation": "la"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "おにぎりを握る:",
+      "start": 5.819768,
+      "end": 8.193966,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "捏饭团",
+      "start": 8.193966,
+      "end": 11.11726,
+      "annotation": "niē fàntuán"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "(火傷するほど)熱い:",
+      "start": 11.11726,
+      "end": 12.376848,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "烫",
+      "start": 12.376848,
+      "end": 14.33227,
+      "annotation": "tàng"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "あやしむ:",
+      "start": 14.33227,
+      "end": 15.961291,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "怪",
+      "start": 15.961291,
+      "end": 17.564258,
+      "annotation": "guài"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "(父方の)おばあちゃん:",
+      "start": 17.564258,
+      "end": 20.610252,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "奶奶",
+      "start": 20.610252,
+      "end": 22.470894,
+      "annotation": "nǎinai"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "親しい:",
+      "start": 22.470894,
+      "end": 24.443497,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "亲",
+      "start": 24.443497,
+      "end": 25.78902,
+      "annotation": "qīn"
+    }
+  ]
+}
