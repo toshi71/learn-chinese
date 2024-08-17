@@ -21,8 +21,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // プリセットファイルを読み込む関数
     function loadPreset(fileName) {
-        const jsonFilePath = `./json/${fileName}.json`;
-        const audioFilePath = `./audio/${fileName}.mp3`;
+        const jsonFilePath = `json/${fileName}.json`;
+        const audioFilePath = `audio/${fileName}.mp3`;
 
         fetch(jsonFilePath)
             .then(response => {
