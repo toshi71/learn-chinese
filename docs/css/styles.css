@@ -105,3 +105,64 @@ audio {
     background-color: #ffeb3b;
     color: black;
 }
+
+#playback-rate-select {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#playback-rate-select:hover {
+    background-color: #0056b3;
+}
+
+#playback-rate-select:focus {
+    outline: none; /* フォーカス時のアウトラインを削除 */
+}
+
+#playback-rate-select option {
+    background-color: white; /* オプションの背景色 */
+    color: black; /* オプションの文字色 */
+}
+
+/* オプションをホバーしたときのスタイル */
+#playback-rate-select option:hover {
+    background-color: #ffeb3b; /* ホバー時の背景色 */
+    color: black; /* ホバー時の文字色 */
+}
+
+#file-select {
+    background-color: #007bff; /* ボタンと同じ背景色 */
+    color: white; /* ボタンと同じ文字色 */
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#file-select:hover {
+    background-color: #0056b3; /* ホバー時の背景色 */
+}
+
+#file-select:focus {
+    outline: none; /* フォーカス時のアウトラインを削除 */
+}
+
+#file-select option {
+    background-color: white; /* オプションの背景色 */
+    color: black; /* オプションの文字色 */
+}
+
+/* オプションをホバーしたときのスタイル */
+#file-select option:hover {
+    background-color: #ffeb3b; /* ホバー時の背景色 */
+    color: black; /* ホバー時の文字色 */
+}
+

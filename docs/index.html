@@ -10,18 +10,19 @@
         <div id="title"></div>
         <div id="text-container"></div>
         <audio id="audio" controls></audio>
-        <div id="controls">
-            <button class="speed-btn" onclick="changePlaybackRate(0.5)">0.5x</button>
-            <button class="speed-btn" onclick="changePlaybackRate(0.6)">0.6x</button>
-            <button class="speed-btn" onclick="changePlaybackRate(0.7)">0.7x</button>
-            <button class="speed-btn" onclick="changePlaybackRate(0.8)">0.8x</button>
-            <button class="speed-btn" onclick="changePlaybackRate(0.9)">0.9x</button>
-            <button class="speed-btn" onclick="changePlaybackRate(1.0)">1.0x</button>
-        </div>
         <div id="file-buttons">
             <div id="file-select-container"></div>
-            <button class="file-btn" onclick="openSelectedFile()">Open Files</button>
-            <input type="file" id="file-input" accept=".json" style="display: none;" />
+            <!-- <button class="file-btn" onclick="openSelectedFile()">Open Files</button>
+            <input type="file" id="file-input" accept=".json" style="display: none;" /> -->
+        </div>
+        <div id="controls">
+            <label for="playback-rate-select">Playback Rate:</label>
+            <select id="playback-rate-select">
+                <option value="1.0">1.0x</option>
+                <option value="0.75">0.75x</option>
+                <option value="0.5">0.5x</option>
+                <option value="0.25">0.25x</option>
+            </select>
         </div>
     </div>
     <script src="./js/script.js"></script>

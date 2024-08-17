@@ -2,8 +2,18 @@ document.addEventListener('DOMContentLoaded', function() {
     const title = document.getElementById('title');
     const audio = document.getElementById('audio');
     const textContainer = document.getElementById('text-container');
-    const fileInput = document.getElementById('file-input');
+    // const fileInput = document.getElementById('file-input');
     const fileSelectContainer = document.getElementById('file-select-container');
+    const playbackRateSelect = document.getElementById('playback-rate-select');
+
+    playbackRateSelect.addEventListener('change', function() {
+        const selectedRate = parseFloat(playbackRateSelect.value);
+        changePlaybackRate(selectedRate);
+    });
+
+    window.changePlaybackRate = function(rate) {
+        audio.playbackRate = rate;
+    };
 
     // 追加: プリセットファイルの配列
     const presetFiles = [
@@ -27,6 +37,10 @@ document.addEventListener('DOMContentLoaded', function() {
         select.appendChild(option);
     });
 
+    select.addEventListener('change', function() {
+        openSelectedFile();
+    });
+    
     fileSelectContainer.appendChild(select);
 
     window.openSelectedFile = function() {
@@ -195,10 +209,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             }
         });
-    }
-
-    window.changePlaybackRate = function(rate) {
-        audio.playbackRate = rate;
     }
 
 });
