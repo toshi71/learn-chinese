@@ -1,0 +1,6 @@
+.table-container {
+    max-height: 350px; /* 必要に応じて高さを調整 */
+    overflow-y: auto;
+    margin: 20px;
+    border: 1px solid #ddd;
+}

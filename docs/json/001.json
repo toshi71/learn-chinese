@@ -1,0 +1,764 @@
+{
+  "content": [
+    {
+      "type": "title",
+      "text": "第1話　戦乱のκ64"
+    },
+    {
+      "type": "text",
+      "text": "苛怖拉:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "战士们",
+      "start": 0.186657,
+      "end": 1.266604,
+      "annotation": "Zhànshìmen"
+    },
+    {
+      "type": "text",
+      "text": ", ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "早上好",
+      "start": 1.857907,
+      "end": 3.266505,
+      "annotation": "zǎoshang hǎo"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛇族士兵:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "早上好",
+      "start": 4.279788,
+      "end": 5.65972,
+      "annotation": "Zǎoshang hǎo"
+    },
+    {
+      "type": "text",
+      "text": "! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "尊敬的",
+      "start": 5.65972,
+      "end": 6.519678,
+      "annotation": "Zūnjìng de"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "苛怖拉总统",
+      "start": 6.519678,
+      "end": 8.206261,
+      "annotation": "Kēbùlā zǒngtǒng"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "苛怖拉:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "现在",
+      "start": 9.51953,
+      "end": 10.226162,
+      "annotation": "Xiànzài"
+    },
+    {
+      "type": "text",
+      "text": ", ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "要",
+      "start": 10.859464,
+      "end": 11.270102,
+      "annotation": "yào"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "派",
+      "start": 11.270102,
+      "end": 11.564494,
+      "annotation": "pài"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "你们",
+      "start": 11.564494,
+      "end": 11.939299,
+      "annotation": "nǐmen"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "执行",
+      "start": 11.939299,
+      "end": 12.41359,
+      "annotation": "zhíxíng"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "一项",
+      "start": 12.41359,
+      "end": 13.056569,
+      "annotation": "yí xiàng"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "任务",
+      "start": 13.056569,
+      "end": 13.729743,
+      "annotation": "rènwu"
+    },
+    {
+      "type": "text",
+      "text": ".\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛇族士兵:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "是",
+      "start": 14.254113,
+      "end": 15.113393,
+      "annotation": "Shì"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "苛怖拉:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "κ64",
+      "start": 16.439188,
+      "end": 18.225767,
+      "annotation": "κ64"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "行星",
+      "start": 18.247117,
+      "end": 19.359045,
+      "annotation": "xíngxīng"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "是",
+      "start": 19.359045,
+      "end": 19.602776,
+      "annotation": "shì"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "我们",
+      "start": 19.602776,
+      "end": 20.298998,
+      "annotation": "wǒmen"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛇族的",
+      "start": 20.298998,
+      "end": 21.051701,
+      "annotation": "Shézú de"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "星球",
+      "start": 21.051701,
+      "end": 21.802827,
+      "annotation": "xīngqiú"
+    },
+    {
+      "type": "text",
+      "text": ".\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "spacer",
+      "text": "苛怖拉:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "这里",
+      "start": 22.460469,
+      "end": 23.099221,
+      "annotation": "Zhèli"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "容不下",
+      "start": 23.51884,
+      "end": 24.397568,
+      "annotation": "róngbuxià"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛙族",
+      "start": 24.397568,
+      "end": 24.941445,
+      "annotation": "Wāzú"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "spacer",
+      "text": "苛怖拉:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "让我们",
+      "start": 25.865391,
+      "end": 26.567884,
+      "annotation": "Ràng wǒmen"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "把",
+      "start": 26.86939,
+      "end": 27.12271,
+      "annotation": "bǎ"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛙族",
+      "start": 27.12271,
+      "end": 27.77863,
+      "annotation": "Wāzú"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "从",
+      "start": 27.77863,
+      "end": 28.085281,
+      "annotation": "cóng"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "这颗",
+      "start": 28.085281,
+      "end": 28.718583,
+      "annotation": "zhè kē"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "星球",
+      "start": 28.718583,
+      "end": 29.351885,
+      "annotation": "xīngqiú"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "上",
+      "start": 29.351885,
+      "end": 29.771865,
+      "annotation": "shang"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "驱逐",
+      "start": 30.245175,
+      "end": 31.014962,
+      "annotation": "qūzhú"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "干净",
+      "start": 31.014962,
+      "end": 31.954894,
+      "annotation": "gānjìng"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛇族士兵:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "啊",
+      "start": 32.591724,
+      "end": 33.152111,
+      "annotation": "Á"
+    },
+    {
+      "type": "text",
+      "text": "? ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "/",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "什么",
+      "start": null,
+      "end": null,
+      "annotation": "Shénme"
+    },
+    {
+      "type": "text",
+      "text": "?\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "苛怖拉:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "开始",
+      "start": 35.690891,
+      "end": 36.204881,
+      "annotation": "Kāishǐ"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "行动",
+      "start": 36.204881,
+      "end": 36.82647,
+      "annotation": "xíngdòng"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "spacer",
+      "text": "苛怖拉:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "给我",
+      "start": 37.258162,
+      "end": 37.688267,
+      "annotation": "Gěi wǒ"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "攻打",
+      "start": 37.688267,
+      "end": 38.284778,
+      "annotation": "gōngdǎ"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛙族",
+      "start": 38.284778,
+      "end": 38.911184,
+      "annotation": "Wāzú"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "spacer",
+      "text": "苛怖拉:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "一个",
+      "start": 39.177242,
+      "end": 39.824702,
+      "annotation": "Yí ge"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "不留",
+      "start": 39.824702,
+      "end": 40.358009,
+      "annotation": "bù liú"
+    },
+    {
+      "type": "text",
+      "text": ", ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "通通",
+      "start": 40.877983,
+      "end": 41.717942,
+      "annotation": "tōngtōng"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "抓起来",
+      "start": 42.01237,
+      "end": 44.645436,
+      "annotation": "zhuāqǐlai"
+    },
+    {
+      "type": "text",
+      "text": "!",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    }
+  ]
+}

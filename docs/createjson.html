@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Time Stamping Tool</title>
+    <style>
+        .word {
+            margin: 0 5px;
+            cursor: pointer;
+        }
+        .playing {
+            background-color: yellow;
+        }
+    </style>
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/5.2.0/wavesurfer.min.css"> -->
+    <link rel="stylesheet" href="./css/styles2.css">
+</head>
+<body>
+    <h1>Audio Time Stamping Tool</h1>
+    <input type="file" id="audio-file" accept="audio/*">
+    <textarea id="text-input" rows="10" cols="50" placeholder="Enter text"></textarea>
+    <button id="process-button">Process</button>
+    <button id="download-json">Save As JSON</button>
+    <button id="upload-json">Open JSON</button>
+    <input type="file" id="json-file" accept="application/json" style="display:none;">
+    <br><br>
+    <div id="waveform"></div>
+    <div id="current-time"></div>
+    <div id="playbackRateDisplay"></div>
+    <div id="text-container"></div>
+    <script src="./js/wavesurfer.min.js"></script>
+    <script src="./js/script2.js"></script>
+</body>
+</html>

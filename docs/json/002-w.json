@@ -1,0 +1,221 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "戦闘機:",
+      "start": 0.406663,
+      "end": 2.337072,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "战斗机",
+      "start": 2.337072,
+      "end": 5.89896,
+      "annotation": "zhàndòujī"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "めぐる:",
+      "start": 5.89896,
+      "end": 7.233103,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "轮",
+      "start": 7.233103,
+      "end": 10.24426,
+      "annotation": "lún"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "ちょっと求める:",
+      "start": 10.24426,
+      "end": 12.129305,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "求求",
+      "start": 12.129305,
+      "end": 14.799012,
+      "annotation": "qiúqiu"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "とうとう:",
+      "start": 14.799012,
+      "end": 16.397476,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "竟然",
+      "start": 16.397476,
+      "end": 18.946721,
+      "annotation": "jìngrán"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "うるさい！:",
+      "start": 18.946721,
+      "end": 20.133199,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "少废话",
+      "start": 20.133199,
+      "end": 23.275339,
+      "annotation": "Shǎo fèihuà"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "はるか遠く:",
+      "start": 23.275339,
+      "end": 25.040366,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "遥远",
+      "start": 25.040366,
+      "end": 28.461345,
+      "annotation": "yáoyuǎn"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "罰としての酒:",
+      "start": 28.461345,
+      "end": 30.906461,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "罚酒",
+      "start": 30.906461,
+      "end": 34.159282,
+      "annotation": "fájiǔ"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "離れる:",
+      "start": 34.159282,
+      "end": 35.713859,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "离开",
+      "start": 35.713859,
+      "end": 37.183082,
+      "annotation": "líkāi"
+    }
+  ]
+}

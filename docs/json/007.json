@@ -1,0 +1,1366 @@
+{
+  "content": [
+    {
+      "type": "title",
+      "text": "第7話　輸送船の危機"
+    },
+    {
+      "type": "text",
+      "text": "故林:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "我们",
+      "start": 0.973356,
+      "end": 1.774975,
+      "annotation": "Wǒmen"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛙族",
+      "start": 1.774975,
+      "end": 2.406724,
+      "annotation": "Wāzú"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "战败",
+      "start": 2.406724,
+      "end": 3.313649,
+      "annotation": "zhànbài"
+    },
+    {
+      "type": "text",
+      "text": ", ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "所以",
+      "start": 3.313649,
+      "end": 3.813425,
+      "annotation": "suǒyǐ"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "才",
+      "start": 3.813425,
+      "end": 4.260102,
+      "annotation": "cái"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "被迫",
+      "start": 4.260102,
+      "end": 4.813449,
+      "annotation": "bèi pò"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "搬迁",
+      "start": 4.813449,
+      "end": 6.180148,
+      "annotation": "bānqiān"
+    },
+    {
+      "type": "text",
+      "text": ".\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "阳奈:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "太",
+      "start": 6.180148,
+      "end": 6.733495,
+      "annotation": "Tài"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "过分",
+      "start": 6.733495,
+      "end": 7.153505,
+      "annotation": "guòfèn"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "了",
+      "start": 7.153505,
+      "end": 8.034164,
+      "annotation": "le"
+    },
+    {
+      "type": "text",
+      "text": "! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛙族",
+      "start": 8.034164,
+      "end": 8.46687,
+      "annotation": "Wāzú"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "怎么",
+      "start": 8.46687,
+      "end": 8.75206,
+      "annotation": "zěnme"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "不反抗呢",
+      "start": 8.75206,
+      "end": 11.749779,
+      "annotation": "bù fǎnkàng ne"
+    },
+    {
+      "type": "text",
+      "text": "?!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "故林:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "没用的",
+      "start": 11.749779,
+      "end": 13.448816,
+      "annotation": "Méi yòng de"
+    },
+    {
+      "type": "text",
+      "text": ". ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "反抗",
+      "start": 13.448816,
+      "end": 14.339731,
+      "annotation": "Fǎnkàng"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "就会被",
+      "start": 14.339731,
+      "end": 15.149716,
+      "annotation": "jiù huì bèi"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "他们",
+      "start": 15.149716,
+      "end": 15.579708,
+      "annotation": "tāmen"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "杀害",
+      "start": 15.579708,
+      "end": 16.849684,
+      "annotation": "shāhài"
+    },
+    {
+      "type": "text",
+      "text": ".\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "阳奈:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "可是",
+      "start": 16.849684,
+      "end": 17.658404,
+      "annotation": "Kěshì"
+    },
+    {
+      "type": "text",
+      "text": ", ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "一直",
+      "start": 17.658404,
+      "end": 18.169659,
+      "annotation": "yìzhí"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "这样下去",
+      "start": 18.169659,
+      "end": 18.739648,
+      "annotation": "zhèyàngxiàqu"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "的话",
+      "start": 18.739648,
+      "end": 19.20964,
+      "annotation": "dehuà"
+    },
+    {
+      "type": "text",
+      "text": "...... ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "出",
+      "start": 22.219583,
+      "end": 22.339581,
+      "annotation": "chū"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "什么",
+      "start": 22.339581,
+      "end": 22.539577,
+      "annotation": "shénme"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "事了",
+      "start": 22.539577,
+      "end": 23.043445,
+      "annotation": "shì le"
+    },
+    {
+      "type": "text",
+      "text": "?\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛇族兵:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "船长",
+      "start": 25.719518,
+      "end": 26.658935,
+      "annotation": "Chuánzhǎng"
+    },
+    {
+      "type": "text",
+      "text": ", ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "怎么办",
+      "start": 26.658935,
+      "end": 27.622695,
+      "annotation": "zěnme bàn"
+    },
+    {
+      "type": "text",
+      "text": "?\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛇族船长:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "嗯",
+      "start": 27.622695,
+      "end": 29.043613,
+      "annotation": "Ng"
+    },
+    {
+      "type": "text",
+      "text": "...... ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "没办法了",
+      "start": 29.043613,
+      "end": 30.700727,
+      "annotation": "méi bànfǎ le"
+    },
+    {
+      "type": "text",
+      "text": ", ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "火速",
+      "start": 30.700727,
+      "end": 31.359412,
+      "annotation": "huǒsù"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "逃生",
+      "start": 31.359412,
+      "end": 32.524312,
+      "annotation": "táoshēng"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "阳奈:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "快放",
+      "start": 34.168166,
+      "end": 34.584352,
+      "annotation": "Kuài fàng"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "我们",
+      "start": 34.584352,
+      "end": 34.834347,
+      "annotation": "wǒmen"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "出去",
+      "start": 34.834347,
+      "end": 35.940581,
+      "annotation": "chūqu"
+    },
+    {
+      "type": "text",
+      "text": "! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "开门",
+      "start": 35.940581,
+      "end": 36.899308,
+      "annotation": "Kāi mén"
+    },
+    {
+      "type": "text",
+      "text": "!! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "啊",
+      "start": 38.099286,
+      "end": 38.375946,
+      "annotation": "Ā"
+    },
+    {
+      "type": "text",
+      "text": "! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "开了",
+      "start": 38.375946,
+      "end": 39.031915,
+      "annotation": "Kāi le"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "故林:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "真的",
+      "start": 40.054249,
+      "end": 40.584239,
+      "annotation": "Zhēnde"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "开了",
+      "start": 40.584239,
+      "end": 41.63422,
+      "annotation": "kāi le"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "阳奈:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "快跑",
+      "start": 41.63422,
+      "end": 42.202153,
+      "annotation": "Kuài pǎo"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛇族船长:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "大家",
+      "start": 44.049174,
+      "end": 44.474166,
+      "annotation": "Dàjiā"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "镇定",
+      "start": 44.474166,
+      "end": 46.218427,
+      "annotation": "zhèndìng"
+    },
+    {
+      "type": "text",
+      "text": "! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "飞船",
+      "start": 46.218427,
+      "end": 46.994119,
+      "annotation": "Fēichuán"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "没有",
+      "start": 46.994119,
+      "end": 47.694106,
+      "annotation": "méiyǒu"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "问题",
+      "start": 47.694106,
+      "end": 48.695321,
+      "annotation": "wèntí"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "spacer",
+      "text": "蛇族船长:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "什么",
+      "start": 48.695321,
+      "end": 49.06908,
+      "annotation": "Shénme"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "事儿",
+      "start": 49.06908,
+      "end": 49.534072,
+      "annotation": "shìr"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "也没有",
+      "start": 49.534072,
+      "end": 51.215761,
+      "annotation": "yě méiyǒu"
+    },
+    {
+      "type": "text",
+      "text": "!!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛙族男:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "骗子",
+      "start": 51.215761,
+      "end": 52.339118,
+      "annotation": "Piànzi"
+    },
+    {
+      "type": "text",
+      "text": "! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "如果",
+      "start": 52.339118,
+      "end": 52.624014,
+      "annotation": "Rúguǒ"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "没问题",
+      "start": 52.624014,
+      "end": 53.61695,
+      "annotation": "méi wèntí"
+    },
+    {
+      "type": "text",
+      "text": ", ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "你们",
+      "start": 53.61695,
+      "end": 53.928989,
+      "annotation": "nǐmen"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "为什么",
+      "start": 53.928989,
+      "end": 54.313982,
+      "annotation": "wèi shénme"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "要逃",
+      "start": 54.313982,
+      "end": 55.223539,
+      "annotation": "yào táo"
+    },
+    {
+      "type": "text",
+      "text": "?!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛙族女:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "就是",
+      "start": 55.223539,
+      "end": 56.159367,
+      "annotation": "Jiùshì"
+    },
+    {
+      "type": "text",
+      "text": "! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "抛弃",
+      "start": 56.159367,
+      "end": 56.57394,
+      "annotation": "Pāoqì"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "乘客",
+      "start": 56.57394,
+      "end": 56.893934,
+      "annotation": "chéngkè"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "逃生",
+      "start": 56.893934,
+      "end": 57.61892,
+      "annotation": "táoshēng"
+    },
+    {
+      "type": "text",
+      "text": ", ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "无耻",
+      "start": 57.61892,
+      "end": 58.234314,
+      "annotation": "wúchǐ"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛇族船长:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "你们",
+      "start": 58.791224,
+      "end": 59.643882,
+      "annotation": "Nǐmen"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "可不是",
+      "start": 59.643882,
+      "end": 60.568865,
+      "annotation": "kě bú shì"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "\"客\"",
+      "start": 60.568865,
+      "end": 61.843841,
+      "annotation": "kè"
+    },
+    {
+      "type": "text",
+      "text": "! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "区区",
+      "start": 61.843841,
+      "end": 62.543828,
+      "annotation": "Qūqū"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "货物",
+      "start": 62.543828,
+      "end": 63.163816,
+      "annotation": "huòwù"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "而已",
+      "start": 63.163816,
+      "end": 64.829872,
+      "annotation": "éryǐ"
+    },
+    {
+      "type": "text",
+      "text": ".\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "spacer",
+      "text": "蛇族船长:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "给我",
+      "start": 64.829872,
+      "end": 65.543737,
+      "annotation": "Gěi wǒ"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "滚回",
+      "start": 65.543737,
+      "end": 66.243759,
+      "annotation": "gǔnhuí"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "船舱",
+      "start": 66.243759,
+      "end": 67.289041,
+      "annotation": "chuáncāng"
+    },
+    {
+      "type": "text",
+      "text": "!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "蛙族男女:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "啊",
+      "start": 68.768711,
+      "end": 69.298701,
+      "annotation": "Ā"
+    },
+    {
+      "type": "text",
+      "text": "!! ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "/",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "呀",
+      "start": 68.768711,
+      "end": 69.298701,
+      "annotation": "Yā"
+    },
+    {
+      "type": "text",
+      "text": "!!\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "故林:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "这",
+      "start": 70.41368,
+      "end": 71.275212,
+      "annotation": "Zhè"
+    },
+    {
+      "type": "text",
+      "text": ", ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "这可",
+      "start": 71.275212,
+      "end": 71.973651,
+      "annotation": "zhè kě"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "怎么",
+      "start": 71.973651,
+      "end": 72.278646,
+      "annotation": "zěnme"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "办",
+      "start": 72.278646,
+      "end": 73.372928,
+      "annotation": "bàn"
+    },
+    {
+      "type": "text",
+      "text": "?\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "阳奈:",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "我们",
+      "start": 73.372928,
+      "end": 73.718619,
+      "annotation": "Wǒmen"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "也得",
+      "start": 73.718619,
+      "end": 73.938614,
+      "annotation": "yě děi"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "逃生",
+      "start": 73.938614,
+      "end": 74.388606,
+      "annotation": "táoshēng"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "才行",
+      "start": 74.388606,
+      "end": 75.214732,
+      "annotation": "cái xíng"
+    },
+    {
+      "type": "text",
+      "text": "!",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    }
+  ]
+}

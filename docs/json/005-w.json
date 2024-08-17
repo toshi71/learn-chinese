@@ -1,0 +1,193 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "報告、報告する:",
+      "start": 0.553346,
+      "end": 3.738128,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "报告",
+      "start": 3.738128,
+      "end": 7.140432,
+      "annotation": "bàogào"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "ちょっと調査する:",
+      "start": 7.140432,
+      "end": 9.463058,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "查查",
+      "start": 9.463058,
+      "end": 12.003347,
+      "annotation": "chácha"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "八割がた:",
+      "start": 12.003347,
+      "end": 14.227521,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "八成",
+      "start": 14.227521,
+      "end": 16.557052,
+      "annotation": "bāchéng"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "しっぽ:",
+      "start": 16.557052,
+      "end": 18.139008,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "尾巴",
+      "start": 18.139008,
+      "end": 20.207732,
+      "annotation": "wěiba"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "過去に一度も～ない:",
+      "start": 20.207732,
+      "end": 23.266666,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "从没～",
+      "start": 23.266666,
+      "end": 26.349531,
+      "annotation": "cóng méi"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "知恵:",
+      "start": 26.349531,
+      "end": 27.846182,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "智慧",
+      "start": 27.846182,
+      "end": 30.293129,
+      "annotation": "zhìhuì"
+    },
+    {
+      "type": "text",
+      "text": "\n",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "船の倉庫:",
+      "start": 30.293129,
+      "end": 32.054857,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": " ",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "船舱",
+      "start": 32.054857,
+      "end": 33.777878,
+      "annotation": "chuáncāng"
+    }
+  ]
+}

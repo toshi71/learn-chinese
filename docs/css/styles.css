@@ -1,0 +1,107 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 800px;
+    max-height: 90vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+#text-container {
+    font-family: "微软雅黑","宋体";
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    text-align: left;
+    overflow-y: auto;
+    flex: 1; /* 余ったスペースを埋める */
+}
+
+audio {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#controls, #file-buttons {
+    margin-bottom: 20px;
+}
+
+.speed-btn, .file-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.speed-btn:hover, .file-btn:hover {
+    background-color: #0056b3;
+}
+
+.speed-btn:active, .file-btn:active {
+    background-color: #003f7f;
+}
+
+.word {
+    cursor: pointer;
+    display: inline;
+    padding: 2px 4px;
+}
+
+.ja {
+    font-family: "sans-serif";
+}
+
+.word:hover {
+    background-color: #ffeb3b;
+}
+
+.word.playing {
+    background-color: #8bc34a;
+}
+
+.word-container {
+    display: inline-block;
+    position: relative;
+    margin: 0 5px;
+    text-align: left;
+    vertical-align: top;
+}
+
+.annotation {
+    display: block;
+    font-size: 0.6em;
+    color: #666;
+}
+
+.spacer {
+    cursor: pointer;
+    display: inline;
+    padding: 2px 4px;
+    color: white;
+    background-color: white; /* テキストが選択されたときに見えるように */
+}
+
+.spacer:hover,
+.spacer::selection {
+    background-color: #ffeb3b;
+    color: black;
+}
