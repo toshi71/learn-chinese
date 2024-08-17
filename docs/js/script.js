@@ -6,7 +6,11 @@ document.addEventListener('DOMContentLoaded', function() {
     const presetButtons = document.getElementById('preset-buttons');
 
     // 追加: プリセットファイルの配列
-    const presetFiles = ['001', '002', '003'];
+    const presetFiles = [
+        '001', '001-w', '002', '002-w', '003', '003-w', '004', '004-w', '005', '005-w',
+        '006', '006-w', '007', '007-w', '008', '008-w', '009', '009-w', '010', '010-w',
+        '011', '011-w',  '012', '012-w','013', '013-w', '014', '014-w',  '015', '015-w'
+    ];
 
     // プリセットボタンを生成する関数
     function createPresetButtons() {
