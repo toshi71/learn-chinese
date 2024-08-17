@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const audio = document.getElementById('audio');
     const textContainer = document.getElementById('text-container');
     const fileInput = document.getElementById('file-input');
-    const presetButtons = document.getElementById('preset-buttons');
+    const fileSelectContainer = document.getElementById('file-select-container');
 
     // 追加: プリセットファイルの配列
     const presetFiles = [
@@ -12,36 +12,46 @@ document.addEventListener('DOMContentLoaded', function() {
         '011', '011-w',  '012', '012-w','013', '013-w', '014', '014-w',  '015', '015-w'
     ];
 
-    // プリセットボタンを生成する関数
-    function createPresetButtons() {
-        presetFiles.forEach(file => {
-            const button = document.createElement('button');
-            button.textContent = file;
-            button.className = 'preset-btn';
-            button.onclick = () => loadPreset(file);
-            presetButtons.appendChild(button);
-        });
-    }
+    // プルダウンメニューの生成
+    const select = document.createElement('select');
+    select.id = 'file-select';
+    const defaultOption = document.createElement('option');
+    defaultOption.value = '';
+    defaultOption.textContent = 'Select File';
+    select.appendChild(defaultOption);
 
-    // プリセットファイルを読み込む関数
-    function loadPreset(fileName) {
-        const jsonFilePath = `json/${fileName}.json`;
-        const audioFilePath = `audio/${fileName}.mp3`;
+    presetFiles.forEach(file => {
+        const option = document.createElement('option');
+        option.value = file;
+        option.textContent = file;
+        select.appendChild(option);
+    });
 
-        fetch(jsonFilePath)
-            .then(response => {
-                if (!response.ok) throw new Error('ネットワークエラー');
-                return response.json();
-            })
-            .then(data => {
-                audio.src = audioFilePath;
-                loadContent(data, fileName);
-            })
-            .catch(error => console.error('ファイルの読み込みに失敗しました:', error));
-    }
+    fileSelectContainer.appendChild(select);
 
-    // プリセットボタンを生成
-    createPresetButtons();
+    window.openSelectedFile = function() {
+        const selectedValue = select.value;
+        if (selectedValue) {
+            const fileName = selectedValue;
+            const jsonFilePath = `./json/${fileName}.json`;
+            const audioFilePath = `./audio/${fileName}.mp3`;
+
+            fetch(jsonFilePath)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(jsonData => {
+                    loadContent(jsonData, fileName);
+                    audio.src = audioFilePath;
+                })
+                .catch(error => console.error('ファイルの読み込みに失敗しました:', error));
+        } else {
+            alert('ファイルを選択してください');
+        }
+    };
 
     fileInput.addEventListener('change', function(event) {
         const file = event.target.files[0];
