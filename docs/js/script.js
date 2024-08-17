@@ -82,8 +82,9 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function loadContent(data, fileName) {
-        // テキストコンテナをクリア
+        // テキストコンテナとタイトルをクリア
         textContainer.innerHTML = '';
+        title.innerHTML = '';
         // 音声ファイルの設定
         audio.src = `./audio/${fileName}.mp3`;
         // テキストの追加
@@ -92,7 +93,6 @@ document.addEventListener('DOMContentLoaded', function() {
         
             switch (item.type) {
                 case 'title':
-                    title.innerHTML = '';
                     const titleH1 = document.createElement('h1');
                     titleH1.textContent = item.text;
                     title.appendChild(titleH1);
