@@ -1,30 +1,35 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
-<meta charset="UTF-8">
-<title>音声再生</title>
+    <meta charset="UTF-8">
+    <title>音声再生</title>
 </head>
+
 <body>
-<button id="playButton">再生</button>
+    <textarea id="text" cols="60" rows="20">大家好！我叫田中，今年25岁。来自日本北海道。</textarea>
+    <br>
+    <button id="playButton">再生</button>
 
-<script>
-document.getElementById('playButton').addEventListener('click', () => {
-    const synth = window.speechSynthesis;
-    const utterance = new SpeechSynthesisUtterance('大家好！我叫田中，今年25岁。来自日本北海道。');
+    <script>
+        document.getElementById('playButton').addEventListener('click', () => {
+            const synth = window.speechSynthesis;
+            const utterance = new SpeechSynthesisUtterance('大家好！我叫田中，今年25岁。来自日本北海道。');
 
-    // 利用可能な音声を取得
-    const voices = synth.getVoices();
-    
-    // 条件に一致する音声を探す
-    const voice = voices.find(v => v.lang.match('zh') && v.name.match('Xiaoxiao|普通话|Ting'));
-    
-    if (voice) {
-        utterance.voice = voice;
-        synth.speak(utterance);
-    } else {
-        console.error('指定された条件に一致する音声が見つかりませんでした。');
-    }
-});
-</script>
+            // 利用可能な音声を取得
+            const voices = synth.getVoices();
+
+            // 条件に一致する音声を探す
+            const voice = voices.find(v => v.lang.match('zh') && v.name.match('Xiaoxiao|普通话|Ting'));
+
+            if (voice) {
+                utterance.voice = voice;
+                synth.speak(utterance);
+            } else {
+                console.error('指定された条件に一致する音声が見つかりませんでした。');
+            }
+        });
+    </script>
 </body>
+
 </html>
