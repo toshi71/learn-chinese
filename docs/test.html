@@ -14,14 +14,15 @@
     <script>
         document.getElementById('playButton').addEventListener('click', () => {
             const synth = window.speechSynthesis;
-            const utterance = new SpeechSynthesisUtterance('大家好！我叫田中，今年25岁。来自日本北海道。');
-
+            const text = document.getElementById('text').value;
+            const utterance = new SpeechSynthesisUtterance(text);
+    
             // 利用可能な音声を取得
             const voices = synth.getVoices();
-
+    
             // 条件に一致する音声を探す
             const voice = voices.find(v => v.lang.match('zh') && v.name.match('Xiaoxiao|普通话|Ting'));
-
+    
             if (voice) {
                 utterance.voice = voice;
                 synth.speak(utterance);
@@ -30,6 +31,6 @@
             }
         });
     </script>
-</body>
+    </body>
 
 </html>
