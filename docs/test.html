@@ -28,7 +28,7 @@
             voices.forEach(voice => { //　アロー関数 (ES6)
                 // 中国語(大陸)以外の声は選択肢に追加しない。
                 if (!voice.lang.match('zh')) return
-                if (!voice.name.match('Xiaoxiao|普通话')) return
+                if (!voice.name.match('Xiaoxiao|普通话|Ting')) return
                 const option = document.createElement('option')
                 option.value = voice.name
                 option.text = `${voice.name} (${voice.lang})` //　テンプレートリテラル (ES6)
