@@ -398,10 +398,38 @@
     },
     {
       "type": "text",
-      "text": "即将脱离飞船",
+      "text": "即将",
       "start": 32.966786,
+      "end": 33.694142,
+      "annotation": "Jíjiāng"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "脱离",
+      "start": 33.694142,
+      "end": 34.159131,
+      "annotation": "tuōlí"
+    },
+    {
+      "type": "text",
+      "text": "|",
+      "start": null,
+      "end": null,
+      "annotation": ""
+    },
+    {
+      "type": "text",
+      "text": "飞船",
+      "start": 34.159131,
       "end": 35.03346,
-      "annotation": "Jíjiāng tuōlí fēichuán"
+      "annotation": "fēichuán"
     },
     {
       "type": "text",
